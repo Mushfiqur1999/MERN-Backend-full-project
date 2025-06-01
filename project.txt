@@ -1,0 +1,18 @@
+//Person
+1.Registration
+2.Login
+3.ProfileDetails
+4.ProfileUpdate
+5.EmailVerify
+6.CodeVerify
+7.ResetPassword
+
+
+//Product
+8.CreateProduct
+9.UpdateProductStatus
+10.ProductListByStatus
+11.DeleteProduct
+12CountProduct
+
+database MongoDB
